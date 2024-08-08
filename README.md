@@ -1,5 +1,5 @@
 
-mouse
+mac-mouse
 =====
 
 _This version of mouse is published from a forked repository. It is reproduced under the MIT license. For the original mouse project, please look [here](https://github.com/boppreh/mouse)._
